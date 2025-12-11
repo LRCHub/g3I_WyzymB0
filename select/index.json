@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アイラヴユー (AA1)",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-11T14:29:19.821527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイラヴユー - From THE FIRST TAKE",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_アイラヴユー_-_From_THE_FIRST_TAKE_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイラヴユー",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/02_アイラヴユー_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイラヴユー",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_アイラヴユー_SUPER_BEAVER.txt"
+    }
+  ]
+}
